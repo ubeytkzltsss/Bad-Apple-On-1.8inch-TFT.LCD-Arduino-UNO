@@ -42,7 +42,7 @@ pip install pyserial pillow
 python sender.py
 ```
 
-The PNG frames will be sent from the PC to the Arduino and Bad Apple!! will play on the TFT. 🎥
+The PNG frames will be sent from the PC to the Arduino and Bad Apple!! will play on the LCD display. 🎥
 
 
 🎥 Video showcase below.
