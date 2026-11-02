@@ -51,4 +51,11 @@ The PNG frames will be sent from the PC to the Arduino and Bad Apple!! will play
 https://youtu.be/EluTrVv-Xh4
 
 
-**Developed by Ubeyt**
+
+<p align="center">
+<img width="100" height="99" alt="resim" src="https://github.com/user-attachments/assets/ba6bfe9b-8216-4e74-9ce3-4c766a01842c" />
+</p>
+
+<p align="center">
+  Developed by <b>Ubeyt</b>.
+</p>
